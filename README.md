@@ -1,5 +1,5 @@
 this is my first repository
 <br>
-author - priti roy
+author - priti (student)
 
 
